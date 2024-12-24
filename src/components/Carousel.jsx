@@ -6,10 +6,10 @@ const Carousel = () => {
 
   // Images for the carousel
   const images = [
-    "src/assets/sandyq.jpeg",
-    "src/assets/auyl.jpg",
-    "src/assets/uzbek_rest.jpeg",
-    "src/assets/selfie.webp",
+    "static/images/sandyq.jpeg",
+    "static/images/auyl.jpg",
+    "static/images/uzbek_rest.jpeg",
+    "static/images/selfie.webp",
   ];
 
   // Function to go to the next slide
